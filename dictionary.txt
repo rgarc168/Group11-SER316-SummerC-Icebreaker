@@ -3,7 +3,7 @@ Flughafen         - Airport
 Berlin            - Capital of Germany
 Bratwurst         - German Sausage
 Hauptstrasse      - Main Road
-Brot              - Violation
+Brot              - Bread
 Klimaanlage       - Air conditioner
 Rammstein         - German Metal Band (Du Hast Mich)
 Porsche           - Luxury Auto Maker

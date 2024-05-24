@@ -6,6 +6,6 @@ Michael Cobb     - https://github.com/scabral4asu/team3icebreaker/compare/main..
 
 Stephen Lane     -  
 
-Thomas Probert   -  
+Thomas Probert   -  https://github.com/MaryanZ/Group2ser316/pull/3
 
 Joshua Robinson  -  
